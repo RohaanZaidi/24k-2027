@@ -1,0 +1,21 @@
+Objective 2: Pseudocode (Task 01)
+() Find the maximum number in any of three variables.
+
+START
+// Inputs 
+INPUT Number1
+INPUT Number2
+INPUT Number3
+// Variables Initialization
+SET Number1, Number2, Number3 as INTEGERS
+SET Largest Number = 0
+// Process Steps
+IF Number1>Number2 AND Number1>Number3 THEN
+Largest Number = Number1
+ELSEIF Number2>Number1 AND Number2>Number3 THEN
+Largest Number = Number2
+ELSE Largest Number = Number3
+// Output Process
+PRINT Largest Number 
+END
+

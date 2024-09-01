@@ -1,0 +1,19 @@
+Objective 2: Pseudocode (Task 03)
+() Create a small calculator which only does ‘+’ or ‘-‘ operations. (Hint: Take three variable inputs with one being used for the operator)
+
+// Inputs
+INPUT Num1
+INPUT Num2	
+INPUT Operator
+// Variables and Initialization
+SET Num1, Num2 as INTEGERS
+SET Result = 0
+// Process Steps
+IF Operator = ‘+’
+Result = Num1 + Num2
+ELSEIF Operator = ‘-‘
+Result = Num1 – Num2
+ELSE Result = “Invalid”
+// Output Process
+PRINT Result
+END

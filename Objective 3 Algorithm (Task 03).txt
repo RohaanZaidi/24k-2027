@@ -1,0 +1,18 @@
+Objective 3: Algorithm (Task 03)
+() Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+
+1.	SET ‘+’ as 1
+2.	SET ‘-‘ as 2
+3.	SET ‘*’ as 3
+4.	SET ‘/’ as 4
+5.	SET ‘%’ as 5
+6.	SET Num1 and Num2 as integers
+7.	SET Result = 0
+8.	Ask user to ENTER Num1 and Num2 in order of intended operations
+9.	ENTER a number from 1-5, each number corresponding to a certain operation as SET above
+10.	IF user enters 1, THEN Result = Num1 + Num2
+11.	IF user enters 2, THEN Result = Num1 – Num2
+12.	IF user enters 3, THEN Result = Num1 * Num2
+13.	IF user enters 4, THEN Result = Num1 / Num2
+14.	IF user enters 5, THEN Result = (Num1 / Num2)*100
+15.	PRINT Result
